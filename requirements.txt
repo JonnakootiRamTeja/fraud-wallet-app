@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+xgboost
+imbalanced-learn
+shap
+python-dotenv
+bcrypt
+streamlit
+yagmail
+sqlite3
